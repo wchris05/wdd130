@@ -36,12 +36,12 @@ nav a:hover {
 }
 .book, .join {
     background-color: #3A6992;
-    color: black;
+    color: white;
     text-decoration: none;
 }
 .book:hover, .join:hover {
     background-color: #3A6992;
-    color: white;
+    color: #F3FFC6;
 }
 .home-title {
     color: black;
