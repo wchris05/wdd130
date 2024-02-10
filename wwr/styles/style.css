@@ -6,10 +6,10 @@ main section {
     text-align: center;
 }
 body {
-    background-color: #3A6992;
+    background-color: #b1d1ff;
 }
 header {
-    background-color: #3A6992;
+    background-color:rgba(7, 74, 55, .7);
 }
 #background {
     height: 725px;
@@ -20,7 +20,7 @@ header {
 }
 
 h4 {
-    color: white;
+    color: black;
 }
 nav a {
     text-align: center;
@@ -36,7 +36,7 @@ nav a:hover {
 }
 .book, .join {
     background-color: #3A6992;
-    color: white;
+    color: black;
     text-decoration: none;
 }
 .book:hover, .join:hover {
@@ -44,7 +44,7 @@ nav a:hover {
     color: white;
 }
 .home-title {
-    color: white;
+    color: black;
 }
 .icon {
     width: 80px;
