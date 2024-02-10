@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: #fca6c9;
+}
+main {
+    max-width: 500px;
+    margin: auto;
+}
+ol {
+    text-align: left;
+}
+#title {
+    color: white;
+}
+img {
+    height: 500px;
+    width: auto;
+}
+blockquote {
+    color: white;
+}
