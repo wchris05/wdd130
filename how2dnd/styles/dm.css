@@ -63,7 +63,6 @@ img {
     grid-row: 1/2;
     z-index: -1;
     width: 700px;
-    align: center;
 }
 #worldbuilding h1 {
     grid-column: 1/4;
