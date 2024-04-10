@@ -62,6 +62,7 @@ nav a:hover {
 }
 #how-to-msg h1 {
     font-size: 90px;
+    font-family: "Fredericka the Great", fantasy;
 }
 #how-to-msg p {
     font-size: 30px;
@@ -69,6 +70,7 @@ nav a:hover {
 .link {
     color: #B3001B;
     font-size: 60px;
+    font-family: "Fredericka the Great", fantasy;
 }
 .link:hover {
     color: white;
