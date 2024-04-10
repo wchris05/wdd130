@@ -29,13 +29,19 @@ nav {
 }
 nav a {
     text-align: center;
-    color: white;
+    color: #FCB9B2;
     text-decoration: none;
     padding: 35px;
     font-size: 40px;
 }
 nav a:hover {
-    background-color: #3A6992;
+    background-color: #1E212B;
+    color: #B3001B;
+}
+a {
+    color: #FCB9B2;
+}
+a:hover {
     color: white;
 }
 #introplayer{
