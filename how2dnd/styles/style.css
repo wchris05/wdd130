@@ -79,7 +79,7 @@ nav a:hover {
 #players-section {
     display:grid;
     grid-template-columns: 800px auto;
-    grid-template-rows: 50px auto;
+    grid-template-rows: 100px auto;
     margin-bottom: 100px;
     
 }
@@ -99,12 +99,12 @@ nav a:hover {
     grid-row: 1/2;
     text-align: center;
     padding-left: 50px;
-    padding-top: 50px;
+    margin-top: 50px;
 }
 #dm-section {
     display:grid;
     grid-template-columns: 1fr 600px;
-    grid-template-rows: 50px auto;
+    grid-template-rows: 100px auto;
     margin-bottom: 100px;
 }
 #dm-img {
@@ -124,7 +124,7 @@ nav a:hover {
     grid-row: 1/2;
     text-align: center;
     padding-right: 50px;
-    padding-top: 100px;
+    margin-top: 50px;
 }
 
 /* This is the section for players.html */
