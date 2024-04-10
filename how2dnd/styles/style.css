@@ -150,6 +150,14 @@ nav a:hover {
 #charactercreation p{
     font-size: 15px;
 }
+#charactercreation a {
+    color: #FCB9B2;
+    font-family: "Fredericka the Great", fantasy;
+    text-decoration: none;
+}
+#charactercreation a:hover {
+    text-decoration: underline;
+}
 #gameplay-img {
     width:600px;
     float:left;
