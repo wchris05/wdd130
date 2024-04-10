@@ -92,6 +92,7 @@ nav a:hover {
     grid-row:2/3;
     text-align:center;
     padding-left: 50px;
+    padding-top: 100px;
 }
 #players-section a {
     grid-column: 2/3;
@@ -116,6 +117,7 @@ nav a:hover {
     grid-row:2/3;
     text-align:center;
     padding-right: 50px;
+    padding-top: 150px;
 }
 #dm-section a {
     grid-column: 1/2;
@@ -224,7 +226,7 @@ nav a:hover {
 #addingtoworld {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 100px 1fr;
+    grid-template-rows: 150px 1fr;
 }
 #addition-box {
     grid-column: 1/2;
@@ -251,7 +253,7 @@ nav a:hover {
 #working-with-players {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 100px 1fr;
+    grid-template-rows: 150px 1fr;
     margin-bottom: 50px;
 }
 #working-box {
